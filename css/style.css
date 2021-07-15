@@ -47,7 +47,7 @@ ul.ull{
   
   overflow: hidden;
   background-color: rgba(54,138,156,1);
-  position: relative;
+  position: static;
   width: 100%;
   margin-top: 0;
 }
