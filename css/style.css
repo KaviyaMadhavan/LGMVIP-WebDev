@@ -47,7 +47,7 @@ ul.ull{
   padding: 0 20px 0 20px;
   overflow: hidden;
   background-color: rgba(54,138,156,1);
-  position: fixed;
+  position: sticky;
   width: 100%;
   margin-top: 0;
 }
