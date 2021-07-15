@@ -44,10 +44,10 @@ padding: 15px;
 ul.ull{
   list-style-type: none;
   margin: 0;
-  padding: 0 20px 0 20px;
+  
   overflow: hidden;
   background-color: rgba(54,138,156,1);
-  position: sticky;
+  position: fixed;
   width: 100%;
   margin-top: 0;
 }
@@ -70,7 +70,6 @@ li.l a:hover{
 }
 body{
   background-color: rgba(43,166,78,0.2);
-  margin: 0;
 }
 .top{
   padding-top: 80px;
