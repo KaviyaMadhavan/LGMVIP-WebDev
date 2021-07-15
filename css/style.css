@@ -4,7 +4,6 @@
   background-size: cover;
  }
 .content-area{
-  
   height: 100%;
   display: flex;
   align-items: center;
@@ -215,3 +214,8 @@ button:hover{
  padding: 10px;
  margin: 10px;
 }
+li.l{
+max-width:400px;
+  width: 100%;
+  height: auto;
+} 
