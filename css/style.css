@@ -70,6 +70,7 @@ li.l a:hover{
 }
 body{
   background-color: rgba(43,166,78,0.2);
+  margin: 0;
 }
 .top{
   padding-top: 80px;
